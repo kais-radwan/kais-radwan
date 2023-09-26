@@ -5,12 +5,6 @@ I'm interested in AI and decentralization as a way to build a safe, transparent,
 
 Currently building a decentralizaed open-source ecosystem of tools to help developers make anything and everything decentralized.
 
-If people go on vacation to have fun, I write code.
+I believe that decentralizedation is not just about crypto, but decentralized real-time databases, peer-to-peer communications, decentralized and secure data scopes and AI-powered policies.
 
-If people drink when depressed. I write code.
-
-If people get rest after a hard day. I write code.
-
-Coding is everything for me.
-
-Contact me on [Matrix](https://matrix.to/#/@multineon:gitter.im) and let's code something.
+Contact me on [Matrix](https://matrix.to/#/@multineon:gitter.im) and let's decentralize the world together.

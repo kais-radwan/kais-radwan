@@ -1,12 +1,18 @@
 
 ### Kais Radwan
 
-I'm interested in AI and decentralization as a way to build a safe, transparent, free, and bright world.
+Self-taught developer interested in AI and decentralization as a way to build a safe, transparent, and free world for everyone.
 
-Currently building a decentralizaed open-source ecosystem of tools to help developers make anything and everything decentralized.
+The good part:
+- Coding since I was 12 just because I love it.
+- Founder of Multi Neon, Koxy AI, and ddeep-eco.
+- Use Neovim because it's the best.
+- Hates social media.
 
-I believe that decentralizedation is not just about crypto, but decentralized real-time databases, peer-to-peer communications, decentralized and secure data scopes and AI-powered policies.
+The bad part:
+- Stuck in Typescript trying to move to Rust.
+- Have skill issues. (Confirmed by a developer on Twitter who uses VsCode but forgot his name)
 
-"Change happens in bad times so I believe it's time to change and decentralize the world" -Kais Radwan.
+The code I write is everything I've ever had and will have.
 
-Contact me on [Matrix](https://matrix.to/#/@multineon:gitter.im) and let's decentralize the world together.
+Contact me on [Matrix](https://matrix.to/#/@multineon:gitter.im) and let's code something together.
